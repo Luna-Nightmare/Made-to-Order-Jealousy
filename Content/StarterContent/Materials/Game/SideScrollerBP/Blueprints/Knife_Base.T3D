@@ -1,0 +1,22 @@
+Begin Object Class=/Script/Engine.Material Name="Knife_Base"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'/Game/SideScrollerBP/Blueprints/Knife_Base1.Knife_Base1'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=4B2122014615B9BE2FC69EBEC0F1D395
+      Material=Material'Knife_Base'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=982D1AB04054C4B0255F68946F2E2E1B
+   ReferencedTextureGuids(0)=E3AFA2C648996862F5BE16BAE1D6E0E7
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=64EDD41043068F5A44AAB49683B62EA9
+End Object
