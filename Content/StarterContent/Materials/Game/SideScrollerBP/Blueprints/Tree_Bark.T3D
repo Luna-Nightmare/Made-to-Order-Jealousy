@@ -1,0 +1,22 @@
+Begin Object Class=/Script/Engine.Material Name="Tree_Bark"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'/Game/SideScrollerBP/Blueprints/TreeBark.TreeBark'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=2242FB3648239111A7BC9F9241320FBD
+      Material=Material'Tree_Bark'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=84FBB0FC42191E6991620A908531CD0C
+   ReferencedTextureGuids(0)=323D000D4E04937BD16095B462F9338A
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=96F54DA74CDAF5D2C7BE4B87D5D0167A
+End Object

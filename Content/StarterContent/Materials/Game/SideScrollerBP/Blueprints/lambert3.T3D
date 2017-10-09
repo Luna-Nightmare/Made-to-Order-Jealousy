@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="lambert3"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=1.000000,G=0.000000,B=0.000000,A=0.000000)
+      ExpressionGUID=5FAE02BD46EC2A4277E28CBE3677F0D6
+      MaterialExpressionGuid=6963828D4567507BF5231F9D41265CEE
+      Material=Material'lambert3'
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=BEA53EDB4354F50010302292EC34021E
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=48881AE84708E0A84E3061ACBB293A6E
+End Object
